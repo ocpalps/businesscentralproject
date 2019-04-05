@@ -1,3 +1,11 @@
 # business central project
 
-branch 23423432
+branch master - venerdi
+
+## titolo 2
+
+**grassetto**
+
+```json
+a { a:"ciao"}
+````
